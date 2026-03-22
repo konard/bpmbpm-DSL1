@@ -1,6 +1,7 @@
 ## ver1
 
 ### run github
+ver1/examples/calculator/calculator.html  
 github pages https://bpmbpm.github.io/DSL1/ver1/index.html
 
 ### info
