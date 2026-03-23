@@ -15,9 +15,9 @@ https://github.com/bpmbpm/DSL1/tree/main/ver2
 #### Linked Data
 Для формирования tripleStopr \ quadStore (TriG), а также исполнения SPARQL - запросоов используй 
 ```
- <!-- Подключение библиотеки N3.js для парсинга RDF -->
+<!-- Подключение библиотеки N3.js для парсинга RDF -->
     <script src="https://unpkg.com/n3@1.17.2/browser/n3.min.js"></script>
-  <!-- Подключение библиотеки Comunica для SPARQL запросов -->
+<!-- Подключение библиотеки Comunica для SPARQL запросов -->
     <script src="https://rdf.js.org/comunica-browser/versions/v4/engines/query-sparql-rdfjs/comunica-browser.js"></script>
 ```
 см. https://github.com/bpmbpm/rdf-grapher/tree/main/ver9d
