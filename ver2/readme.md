@@ -94,3 +94,4 @@ async function funSPARQLvalues(currentStore, sparqlQuery)
 ### also
 - https://www.eraser.io/ai/bpmn-diagram-generator
 - https://github.com/bpmn-io/bpmn-js
+- https://www.open-bpmn.org/
